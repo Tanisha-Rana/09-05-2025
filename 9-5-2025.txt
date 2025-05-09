@@ -1,1 +1,3 @@
-Let's learn Git & Git-Hub
+Let's learn Git 
+Let's Create Our First Repo.
+
